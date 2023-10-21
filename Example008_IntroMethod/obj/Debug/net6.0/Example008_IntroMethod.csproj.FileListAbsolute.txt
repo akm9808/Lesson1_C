@@ -1,0 +1,15 @@
+D:\Мои документы\Разное\Антон\GeekBrains\Examples\Example008_IntroMethod\bin\Debug\net6.0\Example008_IntroMethod.exe
+D:\Мои документы\Разное\Антон\GeekBrains\Examples\Example008_IntroMethod\bin\Debug\net6.0\Example008_IntroMethod.deps.json
+D:\Мои документы\Разное\Антон\GeekBrains\Examples\Example008_IntroMethod\bin\Debug\net6.0\Example008_IntroMethod.runtimeconfig.json
+D:\Мои документы\Разное\Антон\GeekBrains\Examples\Example008_IntroMethod\bin\Debug\net6.0\Example008_IntroMethod.dll
+D:\Мои документы\Разное\Антон\GeekBrains\Examples\Example008_IntroMethod\bin\Debug\net6.0\Example008_IntroMethod.pdb
+D:\Мои документы\Разное\Антон\GeekBrains\Examples\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.csproj.AssemblyReference.cache
+D:\Мои документы\Разное\Антон\GeekBrains\Examples\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мои документы\Разное\Антон\GeekBrains\Examples\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.AssemblyInfoInputs.cache
+D:\Мои документы\Разное\Антон\GeekBrains\Examples\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.AssemblyInfo.cs
+D:\Мои документы\Разное\Антон\GeekBrains\Examples\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.csproj.CoreCompileInputs.cache
+D:\Мои документы\Разное\Антон\GeekBrains\Examples\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.dll
+D:\Мои документы\Разное\Антон\GeekBrains\Examples\Example008_IntroMethod\obj\Debug\net6.0\refint\Example008_IntroMethod.dll
+D:\Мои документы\Разное\Антон\GeekBrains\Examples\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.pdb
+D:\Мои документы\Разное\Антон\GeekBrains\Examples\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.genruntimeconfig.cache
+D:\Мои документы\Разное\Антон\GeekBrains\Examples\Example008_IntroMethod\obj\Debug\net6.0\ref\Example008_IntroMethod.dll
