@@ -1,0 +1,15 @@
+D:\Мои документы\Разное\Антон\GeekBrains\Examples\Example009_IntroArray\bin\Debug\net6.0\Example009_IntroArray.exe
+D:\Мои документы\Разное\Антон\GeekBrains\Examples\Example009_IntroArray\bin\Debug\net6.0\Example009_IntroArray.deps.json
+D:\Мои документы\Разное\Антон\GeekBrains\Examples\Example009_IntroArray\bin\Debug\net6.0\Example009_IntroArray.runtimeconfig.json
+D:\Мои документы\Разное\Антон\GeekBrains\Examples\Example009_IntroArray\bin\Debug\net6.0\Example009_IntroArray.dll
+D:\Мои документы\Разное\Антон\GeekBrains\Examples\Example009_IntroArray\bin\Debug\net6.0\Example009_IntroArray.pdb
+D:\Мои документы\Разное\Антон\GeekBrains\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.csproj.AssemblyReference.cache
+D:\Мои документы\Разное\Антон\GeekBrains\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мои документы\Разное\Антон\GeekBrains\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.AssemblyInfoInputs.cache
+D:\Мои документы\Разное\Антон\GeekBrains\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.AssemblyInfo.cs
+D:\Мои документы\Разное\Антон\GeekBrains\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.csproj.CoreCompileInputs.cache
+D:\Мои документы\Разное\Антон\GeekBrains\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.dll
+D:\Мои документы\Разное\Антон\GeekBrains\Examples\Example009_IntroArray\obj\Debug\net6.0\refint\Example009_IntroArray.dll
+D:\Мои документы\Разное\Антон\GeekBrains\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.pdb
+D:\Мои документы\Разное\Антон\GeekBrains\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.genruntimeconfig.cache
+D:\Мои документы\Разное\Антон\GeekBrains\Examples\Example009_IntroArray\obj\Debug\net6.0\ref\Example009_IntroArray.dll
